@@ -2,7 +2,7 @@
 
 This assignment asked to use PostgreSQL to complete a research project on employees using what remained of the data from a fictional corporation in 1980s and 1990s: six CSV files.
 
-*Data provided. Code original.*
+Data provided. Code original.
 
 **Full Assignment Description:**
 
