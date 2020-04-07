@@ -22,7 +22,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
   - Use the information you have to create a table schema for each of the six CSV files. 
   - Remember to specify data types, primary keys, foreign keys, and other constraints.
  
-<b>Data Analysis</sb>
+<b>Data Analysis</b>
   
 Once you have a complete database, do the following:
 
@@ -34,4 +34,11 @@ Once you have a complete database, do the following:
   - List all employees in the Sales department, including their employee number, last name, first name, and department name.
   - List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
   - In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
-</details.
+
+<b>Bonus</b>
+ 
+ <i>As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:</i>
+ - Import the SQL database into Pandas
+ - Create a histogram to visualize the most common salary ranges for employee
+ - Create a bar chart of average salary by title
+ </details>
