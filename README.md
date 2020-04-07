@@ -6,7 +6,7 @@ Data provided. Code original.
 
 <details>
   <summary><b>Full Assignment Description:</b></summary>
-
+</br>
 <i>It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
  
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:</i>
@@ -34,3 +34,4 @@ Once you have a complete database, do the following:
   - List all employees in the Sales department, including their employee number, last name, first name, and department name.
   - List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
   - In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+</details.
