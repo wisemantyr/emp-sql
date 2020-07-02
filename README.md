@@ -1,6 +1,6 @@
 # sql-challenge
 
-In this exercize I used PostgreSQL to complete a research project on employees using what remained of the data from a fictional corporation in the 1980s and 1990s: six CSV files.
+In this exercise I used PostgreSQL to complete a research project on employees using what remained of the data from a fictional corporation in the 1980s and 1990s: six CSV files.
 
 Data provided. Code original.
 
